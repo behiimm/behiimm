@@ -42,4 +42,4 @@ A few things I ran into that were worth writing down:
 Working through TryHackMe, and learning German (A1, studying at VHS towards B1)
 alongside the security work.
 
-📍 Berlin · [LinkedIn](https://www.linkedin.com/in/behi-moradi-28719440b)
+📍 Berlin · [LinkedIn](https://www.linkedin.com/in/behnaz-moradimehr)
