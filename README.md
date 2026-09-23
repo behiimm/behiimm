@@ -1,7 +1,6 @@
 ## Behnaz Moradimehr
 
-Security analyst in Berlin. Network detection and packet analysis, and the
-documentation that usually goes missing around them.
+Network detection and packet analysis in Berlin. I write Suricata rules, test them against captures, and write down what they miss.
 
 CompTIA Security+ (SY0-701) · CompTIA Network+ (N10-008) · Google IT Support Certificate
 
